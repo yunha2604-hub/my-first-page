@@ -1,0 +1,21 @@
+index.html
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>나의 첫 깃허브 페이지</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            padding-top: 50px;
+            background-color: #f4f6f8;
+        }
+        h1 { color: #0969da; }
+    </style>
+</head>
+<body>
+    <h1>안녕하세요! 저의 첫 깃허브 웹사이트입니다.</h1>
+    <p>GitHub Pages로 성공적으로 배포되었습니다.</p>
+</body>
+</html>
